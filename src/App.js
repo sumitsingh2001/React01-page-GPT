@@ -14,6 +14,7 @@ import {
 const App = () => {
   return (
     <>
+      {/* Branch Created */}
       <div className="App">
         <div className="gradient_bg">
           <Navbar />
